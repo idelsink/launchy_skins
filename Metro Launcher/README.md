@@ -1,7 +1,7 @@
 Metro Launcher
 ==============
 Formerly known as *Win10 Blue Spotlight Large* is a skin that gives the launcher a metro look. 
-[![Metro Launcher](https://github.com/MrCrazyID/Launchy_Skins/blob/master/Metro%20Launcher/General%20files/Metro_Skin.png)](https://github.com/MrCrazyID/Launchy_Skins)
+[![Metro Launcher](General files/Metro_Skin.png)](https://github.com/MrCrazyID/Launchy_Skins)
 
 ## Naming
 The skin is divided in different sub folder which each hold skin files for different display resolutions. The naming scheme for these folders are: `skin_name [skin_resolution]`
