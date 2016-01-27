@@ -31,6 +31,10 @@ In the table below is the theme resolution matched with the display size in mind
 | WQXGA    | 2560       | 1600        |                                     | 
 | 4K UHD   | 3840       | 2160        | **[1000](Metro Launcher [1000px])** | 
 
+## Known issues
+At a high theme resolution, the alternatives dropdown line item height can’t be set to a higher value. According to [this](http://sourceforge.net/p/launchy/discussion/766268/thread/02f9b236/) post, this can’t be changed.
+For this reason, the font size, can’t be set correctly to a higher value.
+
 ## Acknowledgements
 This skin was based on Based on 'Win10 Blue Spotlight' By *Daniel Barciela*,  
 which was based on 'Spotlight' By *Tyler Sticka*.
