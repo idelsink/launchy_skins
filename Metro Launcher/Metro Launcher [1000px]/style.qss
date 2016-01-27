@@ -1,0 +1,86 @@
+#launchy {
+}
+
+#workingAnimation {
+	qproperty-geometry: rect(958 90 32 32);
+}
+
+#input {
+	font: 24px Sans, Verdana, Arial;
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: white;
+	qproperty-alignment: AlignLeft;
+	qproperty-geometry: rect(30 168 940 30);
+}
+
+#output {
+	font: 12px Sans, Verdana, Arial; 
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: white;
+	qproperty-alignment: AlignCenter;
+	qproperty-geometry: rect(0 108 1000 36);
+}
+
+#outputIcon {
+	qproperty-geometry: rect(470 18 64 64);
+}
+
+#alternatives {
+	color:white;
+	font: 12px Sans, Verdana, Arial;
+	alternate-background-color: rgb(30,30,30);
+	background: rgb(30,30,30);
+	selection-background-color: grey;
+	selection-color: white;
+	border: none;
+	qproperty-geometry: rect(20 206 960 160);
+    opacity: 0.5;
+}
+
+#alternatives::item {
+	padding: 4px 0px 4px 0px;
+}
+
+#alternativesPath {
+	font: 11px Sans, Verdana, Arial;
+	color: rgb(102,102,102);
+	/* selected-color: rgb(196,220,243); */
+}
+
+QScrollBar#altScroll:vertical {
+	image: url(scrollBack.png);
+	width: 24px;
+	margin: 24px 0px 24px 0px;
+}
+
+QScrollBar#altScroll::handle:vertical {
+	background: rgb(110,110,110);
+}
+
+QScrollBar#altScroll::sub-line:vertical {
+	width: 24px;
+	height: 24px;
+	subcontrol-position: top;
+	subcontrol-origin: margin; 
+	image: url(scrollUp.png);
+}
+
+QScrollBar#altScroll::add-page:vertical {
+	background: url(scrollBack.png);
+}
+
+QScrollBar#altScroll::sub-page:vertical {
+	background: url(scrollBack.png);
+}
+
+QScrollBar#altScroll::add-line:vertical {
+	width: 24px;
+	height: 24px; 
+	subcontrol-position: bottom;
+	subcontrol-origin: margin;
+	image: url(scrollDown.png);
+}
