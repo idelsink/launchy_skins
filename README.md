@@ -20,6 +20,6 @@ This repo holds a few skins that I made for [Launchy](http://www.launchy.net/).
 3.  In launchy, go to settings > Skins and select the prefred skin.
 
 ## License
->You can check out the full license [here](https://github.com/MrCrazyID/Launchy_Skins/blob/master/LICENSE)
+> You can check out the full license [here](./LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
