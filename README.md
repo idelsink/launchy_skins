@@ -4,7 +4,7 @@ This repo holds a few skins that I made for [Launchy](http://www.launchy.net/).
 
 ## Skins available
 ### Metro Launcher
-[![Metro Launcher](Metro Launcher/General files/Metro Launcher Theme Example.png)](Metro Launcher)
+[![Metro Launcher](Metro%20Launcher/General%20files/Metro%20Launcher%20Theme%20Example.png)](Metro%20Launcher)
 
 ## What is launchy
 > Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager.  
